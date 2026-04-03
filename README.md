@@ -17,7 +17,7 @@ Key Skills Demonstrated
 Data analysis with Python
 Working with real datasets
 Data cleaning and transformation
-Statistical thinking
+Statistical analysis
 Data visualization
 Files
 Project Three Jupyter Script.html – Full analysis with code and results
