@@ -43,4 +43,4 @@ This project improved my ability to use Python for statistical analysis and data
 
 ## How to View
 - `Project Three Jupyter Script.html` – Full analysis with code and results
-- Full written report included in project documentation
+- MAT 243 Project Three Summary Report Final.docx – Full statistical analysis and conclusions
