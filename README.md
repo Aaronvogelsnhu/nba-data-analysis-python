@@ -27,10 +27,10 @@ This project analyzes NBA team data using Python to identify performance trends 
 ## Visualizations
 
 ### Line Graph (Trend Analysis)
-![Line Graph](images/GraphDisc1.png)
+![Line Graph](GraphDisc1.png)
 
 ### Boxplot Comparison
-![Boxplot](images/Graphdisc2.png)
+![Boxplot](Graphdisc2.png)
 
 ## Key Findings
 - Teams with higher relative skill (Elo rating) strongly correlate with more wins (~0.91 correlation)
